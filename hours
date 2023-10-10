@@ -1,0 +1,6 @@
+#program to convert hours into minutes
+
+hours=int(input("Enter number of hours"))
+print("Time in hours",hours)
+minutes=hours*60
+print("Time in minutes",minutes)
